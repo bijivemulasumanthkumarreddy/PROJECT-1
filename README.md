@@ -4,3 +4,7 @@ The government wants to implement a robust traffic system for the city by being 
 
 Data Set Link :
 https://drive.google.com/file/d/1y61cDyuO9Zrp1fSchWcAmCxk0B6SMx7X/view?usp=sharing
+
+Depolyment Link:
+https://colab.research.google.com/drive/1hJ4Ji3DB0FBwaTDTzFSIewEwgMO3F__7?usp=sharing
+
